@@ -1,5 +1,5 @@
-<h1 style="color:green" align="center">
-  <a href="https://frontline.live/">
+<h1 align="center">
+  <a href="https://frontline.live/" >
     Frontline live
   </a>
 </h1>
@@ -20,7 +20,7 @@
 
 ## 📋 Requirements
 
-This is a project built using ASP razor views with .Net Core and SQL Server
+This is a website built using ASP razor views with .Net Core and SQL Server
 
 ## 🎉 How to set up
 
